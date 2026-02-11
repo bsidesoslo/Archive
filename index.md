@@ -18,5 +18,5 @@ BSides Oslo is a independent, community-driven inclusive information security co
  * [BSides Oslo 2022](https://2022.bsidesoslo.no)
  * [BSides Oslo 2023](https://2023.bsidesoslo.no)
  * [BSides Oslo 2024](https://2024.bsidesoslo.no)
-
+ * [BSides Oslo 2025](https://2025.bsidesoslo.no)
 
